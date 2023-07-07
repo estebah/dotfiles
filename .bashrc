@@ -112,5 +112,5 @@ if ! shopt -oq posix; then
   fi
 fi
 
-alias vim="/home/estebaah/repos/nvim-linux64/bin/nvim"
+alias vim="nvim"
 alias xm="xrdb -merge ~/.Xresources"
