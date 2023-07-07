@@ -3,7 +3,6 @@
 echo "\e[31mฅ^•ﻌ•^ฅ...\e[0m"
 
 sudo apt update -y && sudo apt full-upgrade
-sudo apt install xz-utils
 sudo apt install curl
 sudo apt install git
 sudo apt install build-essential
